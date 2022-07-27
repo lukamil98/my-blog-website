@@ -1,0 +1,20 @@
+.footer-container {
+      background-color: #04013b;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+.footer-subscription{
+    display: flex;
+    background-color: #04013b;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 24px;
+    color: #fff;
+}
